@@ -18,4 +18,4 @@ class TestHello(unittest.TestCase):
         print ("Test Hello World Unicode")
 
 if __name__=="__main__":
-    print ("Test")
+    print ("Test Master Branch")
